@@ -1,3 +1,7 @@
+---
+title: "Report"
+---
+
 # Electrifying Insights: An Exploratory Analysis of Electric Vehicle Adoption Trends in 2023
 ## Report prepared by Group 4.
 
