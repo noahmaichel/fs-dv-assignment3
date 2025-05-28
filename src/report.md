@@ -37,11 +37,9 @@ While earlier research has examined macro-level trends in EV adoption, there is 
 
 Understanding the dynamics of electric vehicle (EV) adoption requires more than just looking at total registration numbers - it demands attention to when consumers choose to adopt new models. Analyzing monthly registration trends offers insight into market behavior, seasonal influences, and potential manufacturer strategies. By examining how registrations fluctuate over time, we can uncover hidden patterns that inform both policy decisions and business strategy in the EV sector.
 
-```html
 <div style="border: 3px solid red; padding: 20px; font-size: 2rem; font-weight: 800">
     Should we add the actual chart here again? -> Check with assignment
 </div>
-```
 
 The line on the primary dashboard-page illustrates a clear seasonal pattern in EV registrations throughout 2023, with notable peaks in January and June, suggesting a semiannual rhythm in model launches or purchase behavior. These trends may reflect strategic release cycles by manufacturers or consumer responses to financial incentives tied to calendar cycles.
 
