@@ -104,7 +104,7 @@ Plot.plot({
   ],
   height: 60,
   caption: `Share of new registrations based on ${d3.sum(registrationsByManufacturerStacked, d => d.count).toLocaleString()} total registrations`
-});
+})
 ```
 
 The data shows that all major brands are actively releasing new EV models, but Asian manufacturers in particular stand out - accounting for an accumulated 59.4%. Kia leads with a 15.3% share of new registrations, followed by BMW (13.6%), Hyundai (12.8%), and Ford (12.2%). Notably, Toyota and Tesla have smaller shares in this context, suggesting a more selective or phased rollout strategy. Overall, this underscores the strength and diversity of offerings from Asian brands, reflecting their aggressive push into the EV market and their growing global influence in shaping its future direction.
