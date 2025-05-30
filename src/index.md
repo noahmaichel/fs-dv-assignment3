@@ -4,10 +4,12 @@ title: "Assignment #3"
 toc: false
 ---
 
+<h1>Electric Vehicle Adoption Trends in 2023</h1>
+
 <div class="grid grid-cols-2" style="height: 100%">
   <div class="card grid-colspan-2">
-    <h2>Title</h2>
-    <h3>Subtitle</h3>
+    <h2 style="font-weight: 600">EV Registrations Follow a Semiannual Surge</h2>
+    <h3>Peaks in January and June 2023 suggest seasonal purchase patterns driven by incentives or strategic model launches.</h3>
     ${
         Plot.plot({
         height: 300,
@@ -44,8 +46,8 @@ toc: false
     }
   </div>
   <div class="card">
-    <h2>Title</h2>
-    <h3>Subtitle</h3>
+    <h2 style="font-weight: 600"><span style="color: #FF7F0E">Crossovers</span> Offer the Largest Capacity</h2>
+    <h3><span style="color: #FF7F0E">Crossovers</span> average 71.5 kWh, indicating longer-range performance over smaller vehicles.</h3>
     ${Plot.plot({
         width,
         height: 600,
@@ -88,8 +90,8 @@ Mean Capacity: ${d.meanCapacity.toFixed(1)} kWh`
 })}
   </div>
   <div class="card">
-    <h2>Title</h2>
-    <h3>Subtitle</h3>
+    <h2 style="font-weight: 600">Regional Differences Shape EV Customer Profiles</h2>
+    <h3><span style="color: #4C9CD4">Budget</span>- and <span style="color: #3DA44D">Eco</span>-Conscious buyers are equally common in Asia, but <span style="color: #4C9CD4">Budget</span>-Conscious buyers dominate elsewhere.</h3>
     ${Plot.plot({
         width,
         height: 600,
